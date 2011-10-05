@@ -1,0 +1,400 @@
+ ....loading....
+Firebug's log limit has been reached. %S entries not shown.		Preferences	 
+<html xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+<head>
+</head>
+<body>
+<div class="g-doc-800 features2">
+<div class="g-section header">
+</div>
+<div class="g-section content">
+<h1>???????</h1>
+<p>
+</p>
+<ul class="tabs">
+<li id="box">
+<a id="tab1tab" class="selected" onclick="javascript:showTab('1');" href="#">
+<span class="box-out">
+<span class="box-in">???? ???? ??? ???</span>
+</span>
+</a>
+</li>
+<li id="newtab">
+<a id="tab2tab" onclick="javascript:showTab('2');" href="#">
+<span class="box-out">
+<span class="box-in">???? ????? ??????? ???????</span>
+</span>
+</a>
+</li>
+<li id="apps">
+</li>
+<li id="tabs">
+</li>
+<li id="crash">
+</li>
+<li id="incognito">
+</li>
+<li id="safe">
+</li>
+<li id="bookmarks">
+</li>
+<li id="settings">
+</li>
+<li id="downloads">
+</li>
+<li>
+</li>
+</ul>
+<div id="tab1" class="tab-content">
+</div>
+<div id="tab2" class="tab-content">
+</div>
+<div id="tab3" class="tab-content">
+</div>
+<div id="tab4" class="tab-content">
+</div>
+<div id="tab5" class="tab-content">
+</div>
+<div id="tab6" class="tab-content">
+</div>
+<div id="tab7" class="tab-content">
+</div>
+<div id="tab8" class="tab-content">
+</div>
+<div id="tab9" class="tab-content">
+</div>
+<div id="tab10" class="tab-content">
+</div>
+</div>
+<div class="g-section more-info">
+</div>
+<div class="g-section footer">
+</div>
+</div>
+<script type="text/javascript">
+</script>
+<script type="text/javascript">
+</script>
+<script type="text/javascript">
+</script>
+<script type="text/javascript" src="http://www.google-analytics.com/ga.js">
+</script>
+<script type="text/javascript">
+</script>
+</body>
+</html>
+@import "//www.google.com/css/gcs.css";
+body {
+margin:0;
+padding:1.3em 1.5em 1.5em;
+}
+.g-doc {
+max-width:1000px;
+}
+.g-doc-800 {
+width:750px;
+}
+.header {
+margin:0 0 0.6em -0.2em;
+padding:0;
+position:relative;
+}
+.header img.logo {
+float:left;
+height:40px;
+}
+.header p {
+padding:0.7em 0 0;
+text-align:right;
+}
+.nav ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0 2em 0 0;
+padding:0;
+}
+.nav li {
+font-weight:bold;
+line-height:normal;
+padding-bottom:1em;
+}
+.nav li a {
+font-weight:normal;
+}
+.nav li.divider {
+border-top:1px solid #999999;
+line-height:normal;
+padding-top:1em;
+}
+.nav li.indent {
+padding:0 0 1em 1em;
+}
+.footer p {
+border:medium none;
+margin:3em 0 0;
+text-align:center;
+}
+h1, h2 {
+padding-bottom:0.5em;
+}
+.small {
+font-size:1em;
+}
+.disclaimer {
+color:#666666;
+}
+.box-out, .box-in {
+display:block;
+}
+.box-out {
+border:1px solid #93B4D9;
+margin:0 1px 1em;
+}
+.box-in {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#FFFFFF none repeat scroll 0 0;
+border-color:#93B4D9;
+border-style:solid;
+border-width:0 1px;
+margin:0 -2px;
+padding:1em;
+}
+.features .features-list ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+.features .features-list ul li {
+border-top:1px solid #FFFFFF;
+height:auto !important;
+line-height:normal;
+margin:0;
+min-height:50px;
+padding:0 0 1.5em;
+}
+.features .features-list ul li h3 {
+font-size:1em;
+margin:0 0 0 62px;
+padding:0;
+}
+.features .features-list li img.icon {
+border:1px solid #CCCCCC;
+float:left;
+margin:0 10px 0 0;
+}
+.features .features-list li p {
+margin:0 0 0 62px;
+padding:0;
+}
+.features .blog-feed {
+margin:0 0 1em 2em;
+}
+.features .blog-feed .indv-post {
+margin:0 0 1.5em;
+}
+.features .blog-feed h3 {
+font-size:1em;
+margin:0;
+padding:0;
+}
+.features .blog-feed .indv-post p {
+margin:0;
+padding:0;
+}
+.features .blog-feed .post-title {
+font-weight:bold;
+}
+.features .blog-feed .post-date {
+color:#666666;
+font-size:0.85em;
+}
+.features .blog-feed h2 {
+font-size:1em;
+margin:0;
+padding:0;
+}
+.features .features-list ul li h2 {
+font-size:1em;
+margin:0 0 0 62px;
+padding:0;
+}
+.mac img.right {
+float:right;
+}
+.privacy .content ul {
+padding:0 0 0 2em;
+}
+.privacy .content li {
+line-height:normal;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:disc;
+padding:0 0 1em;
+}
+.webmasters .content ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+.webmasters .content li {
+line-height:normal;
+margin:0;
+padding:0 0 1em 10px;
+}
+.webmasters .content li img {
+margin:0 0.5em 0 0;
+}
+.webmasters-faq .content li {
+line-height:normal;
+margin:0 0 0 1em;
+padding:0;
+}
+.webmasters-faq code, .webmasters-faq pre {
+color:#007000;
+font-family:"Courier New",Courier,monospace;
+font-size:1em;
+}
+.webmasters-faq pre {
+background-color:#FAFAFA;
+border:1px solid #BBBBBB;
+line-height:125%;
+margin:1em 0;
+padding:0.99em;
+word-wrap:break-word;
+}
+.webmasters-faq table {
+margin:0 0 1em;
+}
+.webmasters-faq th {
+text-align:center;
+}
+.webmasters-faq th, .webmasters-faq td {
+border:1px solid #999999;
+padding:0.5em;
+}
+ul.tabs {
+float:left;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:15px 0 0;
+width:181px;
+}
+ul.tabs li {
+border-bottom:1px solid #FFFFFF;
+border-right:1px solid #93B4D9;
+line-height:normal;
+margin:5px 0;
+padding:0;
+}
+ul.tabs li a .box-out {
+border-color:#FFFFFF;
+border-width:1px 0 1px 1px;
+margin-right:0;
+}
+ul.tabs li a .box-in {
+border-color:#FFFFFF;
+border-width:0 0 0 1px;
+margin:0 0 0 -2px;
+padding:4px 10px 4px 6px;
+}
+ul.tabs li a {
+cursor:pointer;
+display:block;
+}
+ul.tabs li a, ul.tabs li a:visited {
+color:#0000CC;
+}
+ul.tabs li a.selected {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+ul.tabs li a.selected .box-in {
+background-color:#C3D9FF;
+border-color:#93B4D9;
+}
+ul.tabs li a.selected .box-out {
+border-color:#93B4D9;
+}
+ul.tabs li a.last {
+font-weight:bold;
+padding:4px 10px 4px 6px;
+}
+div.tab-content {
+display:none;
+margin-left:180px;
+text-align:center;
+}
+div.tab-content .box-in {
+padding:1em 5em;
+}
+div.tab-content p {
+text-align:left;
+}
+#tab1 {
+display:block;
+}
+.features2 ul.tabs li {
+margin:0;
+}
+.features2 ul.tabs li a .box-out {
+margin-bottom:0;
+}
+.features2 ul.tabs li a.last {
+margin-top:1em;
+}
+.features2 .col {
+float:left;
+margin:0 5% 0 0;
+width:45%;
+}
+.features2 .col img {
+border:1px solid #CCCCCC;
+}
+.features2 .more-info3 .col {
+float:left;
+margin:0 3% 0 0;
+width:30%;
+}
+.promo {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#FFFFD9 none repeat scroll 0 0;
+border:1px solid #D2D26A;
+margin:0 0 1.5em;
+padding:0.8em;
+}
+.welcome .footer p {
+border:medium none;
+}
+.eula-dev iframe {
+background-color:#FFFFFF;
+border:1px solid #999999;
+height:200px;
+margin:0 0 1em;
+width:600px;
+}
+.eula-dev .dl-btn {
+font-weight:bold;
+}
+.warning {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#FFFFD9 none repeat scroll 0 0;
+border:1px solid #D2D26A;
+display:none;
+margin:0 0 1.5em;
+padding:0.5em;
+text-align:center;
+}

@@ -1,0 +1,222 @@
+ch:Switzerland
+af:Afghanistan
+za:South Africa
+al:Albania
+dz:Algeria
+de:Germany
+sa:Saoudi Arabia
+ar:Argentina
+au:Australia
+at:Austria
+be:Belgium
+br:Brasil
+bg:Bulgaria
+ca:Canada
+cl:Chile
+cn:China
+co:Colombia
+kr:South Korea
+cr:Costa Rica
+hr:Croatia
+dk:Denmark
+eg:Egypt
+ae:United Arab Emirates
+ec:Ecuador
+us:Usa
+sv:El Salvador
+es:Spain
+fi:Finland
+fr:France
+gr:Greece
+hk:Hong Kong
+hu:Hungary
+in:India
+id:Indonesia
+ie:Ireland
+il:Israel
+it:Italia
+jp:Japan
+jo:Jordania
+lb:Lebanon
+my:Malaisia
+ma:Morocco
+mx:Mexico
+no:Norvay
+nz:New Zealand
+pe:Peru
+pk:Pakistan
+nl:Netherlands
+ph:Philippines
+pl:Poland
+pr:Puerto Rico
+pt:Portugal
+cz:Czech Republic
+ro:Romania
+uk:United Kingdom
+ru:Russia
+sg:Singapore
+se:Sweden
+tw:Taiwan
+th:Thailand
+tr:Turqey
+ua:Ukraine
+ve:Venezuela
+yu:Yougoslavia
+as:Samoa
+ad:Andorra
+ao:Angola
+ai:Anguilla
+aq:Antarctica
+ag:Antigua and Barbuda
+am:Armenia
+aw:Aruba
+az:Azerbaijan
+bs:Bahamas
+bh:Bahrain
+bd:Bangladesh
+by:Belarus
+bz:Belize
+bj:Benin
+bm:Bermuda
+bt:Bhutan
+bo:Bolivia
+ba:Bosnia and Herzegovina
+bw:Botswana
+io:British Indian Ocean Territory
+vg:Virgin Islands
+bn:Brunei Darussalam
+bf:Burkina Faso
+bi:Burundi
+kh:Cambodia
+cm:Cameroon
+cv:Cape Verde
+ky:Cayman Islands
+cf:Cetral African Republic
+td:Tchad
+km:Comoros
+cg:Congo, The Democratic Republic of the
+ck:Cook Islands
+cu:Cuba
+cy:Cyprus
+dj:Djibouti
+dm:Dominica
+do:Dominican Republic
+tp:Timor-Leste
+gq:Guinea
+er:Eritrea
+ee:Estonia
+et:Ethiopia
+fk:Falkland Islands
+fo:Faroe Islands
+fj:Fidji
+gf:French Guyana 
+pf:French Polynesia 
+ga:Gabon
+gm:Gambia
+ge:Georgia
+gh:Ghana
+gi:Gibraltar
+gl:Greenland
+gd:Grenada
+gp:Guadeloupe
+gu:Guam
+gt:Guatemala
+gn:Guinea
+gw:Guinea-Bissau
+gy:Guyana
+ht:Haïti
+hn:Honduras
+is:Iceland
+ir:Iran
+iq:Irak
+ci:Côte d'Ivoire
+jm:Jamaïca
+kz:Kazakhstan
+ke:Kenya
+ki:Kiribati
+kp:North Korea
+kw:Kuweit
+kg:Kyrgyzstan
+la:Laos
+lv:Latvia
+ls:Lesotho
+lr:Libéria
+ly:Libya
+li:Liechtenstein
+lt:Lithuania
+lu:Luxembourg
+mo:Macao
+mk:Macedonia
+mg:Madagascar
+mw:Malawi
+mv:Maldives
+ml:Mali
+mt:Malta
+mh:Marshall Islands
+mq:Martinique
+mr:Mauritania
+mu:Mauritius
+yt:Mayotte
+fm:Micronesia
+md:Moldova
+mc:Monaco
+mn:Mongolia
+ms:Montserrat
+mz:Mozambique
+mm:Myanmar
+na:Namibia
+nr:Nauru
+np:Nepal
+an:Netherlands Antilles
+ni:Nicaragua
+ne:Niger
+ng:Nigeria
+nu:Niue
+nf:Norfolk Islands
+om:Oman
+pw:Palau
+pa:Panama
+pg:Papua New Guinea
+py:Paraguay
+pn:Pitcairn Islands
+qa:Qatar
+rw:Rwanda
+kn:Saint-Kitts and Nevis
+lc:Saint Lucia
+vc:Saint Vincent and the Grenadines
+ws:Samoa
+sm:San Marino
+st:Sao Tome and Príncipe
+sn:Senegal
+sc:Seychelles
+sl:Sierra Leone
+sk:Slovakia
+si:Slovenia
+so:Somalia
+lk:Sri Lanka
+sh:Saint Helena
+pm:Saint Pierre et Miquelon
+sd:Sudan
+sr:Suriname
+sz:Swaziland
+sy:Syria
+tj:Tajikistan
+tz:Tanzania
+tg:Togo
+to:Tonga
+tt:Trinidad and Tobago
+tn:Tunisia
+tm:Turkmenistan
+tv:Tuvalu
+ug:Uganda
+uy:Uruguay
+uz:Ouzbekistan
+vu:Vanuatu
+va:Vatican City State
+vn:Viet Nam
+vi:Virgin Islands
+wf:Wallis et Futuna
+ye:Yemen
+zm:Zambia
+zw:Zimbabwe
+bb:Barbados

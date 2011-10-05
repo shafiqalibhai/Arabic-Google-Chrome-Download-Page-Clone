@@ -1,0 +1,41 @@
+﻿@import URL(default.css);
+@import URL(http://www.google.com/css/gcs.rtl.css);
+
+body { direction:rtl; }
+
+.header { margin:0 -.2em .6em 0; }
+.header img.logo { float:right; }
+.header p { text-align:left; }
+.nav ul { margin:0 0 0 2em; }
+.nav li.indent { padding:0 1em 1em 0; }
+.footer p { border:none;text-align:center; }
+
+
+.features .features-list ul li h3 { margin:0 62px 0 0; }
+.features .features-list li img.icon { float:right;margin:0 0 0 10px; }
+.features .features-list li p { margin:0 62px 0 0; }
+.features .blog-feed { margin:0 2em 1em 0; }
+
+
+.mac img.right { float:left; }
+
+
+.privacy .content ul { padding:0 2em 0 0; }
+
+
+.webmasters .content li { line-height:normal;margin:0;padding:0 10px 1em 0; }
+.webmasters .content li img { margin:0 0 0 .5em; }
+
+.webmasters-faq .content li { margin:0 1em 0 0; }
+.webmasters-faq code,.webmasters-faq pre { direction:ltr;text-align:left; }
+.webmasters-faq td code { display:block; }
+
+ul.tabs  { float:right; }
+ul.tabs li { border-left:1px solid #93b4d9;border-right:none; }
+ul.tabs li a .box-out { border-width:1px 1px 1px 0;margin-left:0;margin-right:1px; }
+ul.tabs li a .box-in { border-width:0 1px 0 0;margin:0 -2px 0 0;padding:4px 6px 4px 10px; }
+ul.tabs li a.last { padding:4px 6px 4px 10px; }
+div.tab-content { margin:0 180px 0 0; }
+div.tab-content p { text-align:right; }
+
+.features2 .col { float:right;margin:0 0 0 5%;width:45%; }
